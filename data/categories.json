@@ -1,0 +1,35 @@
+[
+    {
+        "id": "01",
+        "name": "Digital Marketing"
+    },
+    {
+        "id": "02",
+        "name": "Graphic Design"
+    },
+    {
+        "id": "03",
+        "name": "Web Design & Development"
+    },
+    {
+        "id": "04",
+        "name": "Training Programme on Python"
+    },
+    {
+        "id": "05",
+        "name": "Java Programming"
+    },
+    {
+        "id": "06",
+        "name": "3D Animation"
+    },
+    {
+        "id": "07",
+        "name": "Network Administration"
+    },
+    {
+        "id": "08",
+        "name": "All Courses"
+    }
+    
+    ]
