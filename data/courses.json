@@ -1,0 +1,543 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "The Complete Digital Marketing Course",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Mahin",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b71c112fdcd160f34bd853c12552aeeaa7f4e515a32b4b594b5fd5f02f335aae.png",
+        "image_url": "https://imgdb.net/storage/uploads/9ce3b9958f82863ee3b232c46a6641b4eec7049be4ee7d5cc06bffaebcb0647c.png",
+        "details": "Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Web Design & Development",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Munim",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/801f8aec6704a3fa6783a701a779bb5a23a3fdbc7919b2aa6a27463267ac55c3.png",
+        "image_url": "https://imgdb.net/storage/uploads/77861872b9e8445cb1ad0dbaf4b5427d06ababcf3c7acb85197b908608bd011e.png",
+        "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client (this is for outstanding performer those will prove themselves to us and can take pressure to complete real project)"
+    },
+    
+    {
+        "id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.8, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "The Complete Digital Marketing Course",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Mahin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b71c112fdcd160f34bd853c12552aeeaa7f4e515a32b4b594b5fd5f02f335aae.png",
+        "image_url": "https://imgdb.net/storage/uploads/9ce3b9958f82863ee3b232c46a6641b4eec7049be4ee7d5cc06bffaebcb0647c.png",
+        "details": "Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    {
+        "id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.3, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Graphic Design",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Tuhin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/7b8778ee4eb448376055f24d7bf83428126cbac252cf038b6aec80d1d63f86f4.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/876250b82d1f4c87fec9a15c9bb85d916d7217257c3329658204b032291eda40.jpg",
+        "details": "Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio."
+    },
+    
+    {
+        "id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Web Design & Development",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Munim",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/801f8aec6704a3fa6783a701a779bb5a23a3fdbc7919b2aa6a27463267ac55c3.png",
+        "image_url": "https://imgdb.net/storage/uploads/77861872b9e8445cb1ad0dbaf4b5427d06ababcf3c7acb85197b908608bd011e.png",
+        "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client (this is for outstanding performer those will prove themselves to us and can take pressure to complete real project)"
+    },
+    {
+        "id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "The Complete Digital Marketing Course",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Mahin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b71c112fdcd160f34bd853c12552aeeaa7f4e515a32b4b594b5fd5f02f335aae.png",
+        "image_url": "https://imgdb.net/storage/uploads/9ce3b9958f82863ee3b232c46a6641b4eec7049be4ee7d5cc06bffaebcb0647c.png",
+        "details": "Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    
+    {
+        "id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Graphic Design",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Tuhin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/7b8778ee4eb448376055f24d7bf83428126cbac252cf038b6aec80d1d63f86f4.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/876250b82d1f4c87fec9a15c9bb85d916d7217257c3329658204b032291eda40.jpg",
+        "details": "Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio.."
+    },
+    
+    {
+        "id": "a713ee936ff5574273f0f769f5c5b20e",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Web Design & Development",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Munim",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/801f8aec6704a3fa6783a701a779bb5a23a3fdbc7919b2aa6a27463267ac55c3.png",
+        "image_url": "https://imgdb.net/storage/uploads/77861872b9e8445cb1ad0dbaf4b5427d06ababcf3c7acb85197b908608bd011e.png",
+        "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client (this is for outstanding performer those will prove themselves to us and can take pressure to complete real project)"
+    },
+    
+    {
+        "id": "e342b6c0c8efc8ca9e811991dc8a7900",
+        "others_info": {
+        "is_todays_pick": true,
+        "is_trending": false
+        },
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Training Programme on Python",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Munim",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/9f6266d61c97900b3bcb61d7c4bfcc68822de7326ab7a2fa713da55c84729200.png",
+        "image_url": "https://imgdb.net/storage/uploads/47be52a3cafeef8709b7eff422b791e1ed441e6881a4a783d8a8d63678f2aae8.png",
+        "details": "This course is designed to teach you how to program using Python. We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. In the end, you should have a grasp of how to program."
+    },
+    {
+        "id": "e342b6c0c8efc8ca9e811991dc8a7901",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+        },
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Training Programme on Python",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Munim",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/9f6266d61c97900b3bcb61d7c4bfcc68822de7326ab7a2fa713da55c84729200.png",
+        "image_url": "https://imgdb.net/storage/uploads/47be52a3cafeef8709b7eff422b791e1ed441e6881a4a783d8a8d63678f2aae8.png",
+        "details": "This course is designed to teach you how to program using Python. We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. In the end, you should have a grasp of how to program."
+    },
+    
+    {
+        "id": "f06f8cc035b04bd1158e4198281915a3",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Java Programming",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Rahin",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/fe6fb57e1b94e880ed9ce206c02a17e8c4e09d86f367273ca5d4d8121543a77d.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/a28b6e8a557ab1aaa5c60f7f452b7c24f35f38d05f8027484f7be1634d2ee429.jpg",
+        "details":"Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects."
+    },
+    {
+        "id": "f06f8cc035b04bd1158e4198281915a4",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Java Programming",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Rahin",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/fe6fb57e1b94e880ed9ce206c02a17e8c4e09d86f367273ca5d4d8121543a77d.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/a28b6e8a557ab1aaa5c60f7f452b7c24f35f38d05f8027484f7be1634d2ee429.jpg",
+        "details": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects."
+    },
+    
+    {
+        "id": "cd2b53655737cc4077542baea9f8f75d",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Graphic Design",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Tuhin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/7b8778ee4eb448376055f24d7bf83428126cbac252cf038b6aec80d1d63f86f4.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/876250b82d1f4c87fec9a15c9bb85d916d7217257c3329658204b032291eda40.jpg",
+        "details": "Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio.."
+    },
+    {
+        "id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+        },
+        "category_id": "07",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Network Administration",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Rumin",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b850dc0c6c1315f931b194a4ffb3b8f21c18a45b7c14bb1441e52af56f72f9af.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/e13e5fc874ea0864f8ae3cced7ee8d3350c9d8514373d0c263557da2dce335f2.jpg",
+        "details": "This really is a great course. The course effectively deals with one of the biggest problems with the 'IT' world: Speaking in another language that non-tech outsiders don't understand. Some people may feel that it is too simplistic and slow-paced, however, they lack the above understanding. Thank you for your efforts!"
+    },
+    {
+        "id": "7c4dfea0fafddc813673282a428429b7",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "The Complete Digital Marketing Course",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Mahin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b71c112fdcd160f34bd853c12552aeeaa7f4e515a32b4b594b5fd5f02f335aae.png",
+        "image_url": "https://imgdb.net/storage/uploads/9ce3b9958f82863ee3b232c46a6641b4eec7049be4ee7d5cc06bffaebcb0647c.png",
+        "details": "Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    {
+        "id": "30af81e91ab3eafc0bcae0de62f55d5c",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "The Complete Digital Marketing Course",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Mahin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b71c112fdcd160f34bd853c12552aeeaa7f4e515a32b4b594b5fd5f02f335aae.png",
+        "image_url": "https://imgdb.net/storage/uploads/9ce3b9958f82863ee3b232c46a6641b4eec7049be4ee7d5cc06bffaebcb0647c.png",
+        "details": "Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    {
+        "id": "df11ff9feefc37613cc3a4486ce02151",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Graphic Design",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Tuhin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/7b8778ee4eb448376055f24d7bf83428126cbac252cf038b6aec80d1d63f86f4.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/876250b82d1f4c87fec9a15c9bb85d916d7217257c3329658204b032291eda40.jpg",
+        "details": "Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio."
+    },
+    {
+        "id": "919db97c34e0778b387dd40cdfa08130",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "The Complete Digital Marketing Course",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Mahin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b71c112fdcd160f34bd853c12552aeeaa7f4e515a32b4b594b5fd5f02f335aae.png",
+        "image_url": "https://imgdb.net/storage/uploads/9ce3b9958f82863ee3b232c46a6641b4eec7049be4ee7d5cc06bffaebcb0647c.png",
+        "details": "Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    {
+        "id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "01",
+        "student_review": 488,
+        "title": "The Complete Digital Marketing Course",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Mahin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b71c112fdcd160f34bd853c12552aeeaa7f4e515a32b4b594b5fd5f02f335aae.png",
+        "image_url": "https://imgdb.net/storage/uploads/9ce3b9958f82863ee3b232c46a6641b4eec7049be4ee7d5cc06bffaebcb0647c.png",
+        "details": "Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    {
+        "id": "acb9b6785b62698fc6130db7615965e1",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Web Design & Development",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Munim",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/801f8aec6704a3fa6783a701a779bb5a23a3fdbc7919b2aa6a27463267ac55c3.png",
+        "image_url": "https://imgdb.net/storage/uploads/77861872b9e8445cb1ad0dbaf4b5427d06ababcf3c7acb85197b908608bd011e.png",
+        "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client (this is for outstanding performer those will prove themselves to us and can take pressure to complete real project)"
+    },
+    {
+        "id": "be44c843d61859cc0b87cae85c55f9db",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "01",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "The Complete Digital Marketing Course",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Mahin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b71c112fdcd160f34bd853c12552aeeaa7f4e515a32b4b594b5fd5f02f335aae.png",
+        "image_url": "https://imgdb.net/storage/uploads/9ce3b9958f82863ee3b232c46a6641b4eec7049be4ee7d5cc06bffaebcb0647c.png",
+        "details": "Master the basics of digital marketing with our free course accredited by Interactive Advertising Bureau Europe and The Open University. There are 26 modules to explore, all created by Google trainers, packed full of practical exercises and real-world examples to help you turn knowledge into action."
+    },
+    {
+        "id": "1b03149c50f1bec662062d930bf46489",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "02",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Graphic Design",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Tuhin",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/7b8778ee4eb448376055f24d7bf83428126cbac252cf038b6aec80d1d63f86f4.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/876250b82d1f4c87fec9a15c9bb85d916d7217257c3329658204b032291eda40.jpg",
+        "details": "Graphic design is all around us, in a myriad of forms, both on screen and in print, yet it is always made up of images and words to create a communication goal. This four-course sequence exposes students to the fundamental skills required to make sophisticated graphic design: process, historical context, and communication through image-making and typography. The sequence is completed by a capstone project that applies the skills of each course and peer feedback in a finished branding project suitable for a professional portfolio."
+    },
+    {
+        "id": "7f5b80c1cdd4df0111918883eae07349",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "03",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Web Design & Development",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Munim",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/801f8aec6704a3fa6783a701a779bb5a23a3fdbc7919b2aa6a27463267ac55c3.png",
+        "image_url": "https://imgdb.net/storage/uploads/77861872b9e8445cb1ad0dbaf4b5427d06ababcf3c7acb85197b908608bd011e.png",
+        "published_date": "2022-08-24 18:00:00",
+        "details": "Once successful competition of this course we will provide real world client project if you are capable doing so. Also we will help you to create your freelancer career on freelancer.com or upwork marketplace. For outstanding performer we will provide few initial projects from real client and you will be able to communicate directly with those client (this is for outstanding performer those will prove themselves to us and can take pressure to complete real project)"
+    },
+    {
+        "id": "17d266b79d2fcd850cd4d983c3aeb95f",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "07",
+        "rating": { "number": 4.2, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Network Administration",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Rumin",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/b850dc0c6c1315f931b194a4ffb3b8f21c18a45b7c14bb1441e52af56f72f9af.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/e13e5fc874ea0864f8ae3cced7ee8d3350c9d8514373d0c263557da2dce335f2.jpg",
+        "details": "This really is a great course. The course effectively deals with one of the biggest problems with the 'IT' world: Speaking in another language that non-tech outsiders don't understand. Some people may feel that it is too simplistic and slow-paced, however, they lack the above understanding. Thank you for your efforts!"
+    },
+    {
+        "id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": true
+        },
+        "category_id": "05",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Java Programming",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Rahin",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/fe6fb57e1b94e880ed9ce206c02a17e8c4e09d86f367273ca5d4d8121543a77d.jpg",
+        "image_url": "https://imgdb.net/storage/uploads/a28b6e8a557ab1aaa5c60f7f452b7c24f35f38d05f8027484f7be1634d2ee429.jpg",
+        "details": "Popular for its versatility and ability to create a wide variety of applications, learning Java opens up your possibilities when coding. With it, you’ll be able to develop large systems, software, and mobile applications — and even create mobile apps for Android. Learn important Java coding fundamentals and practice your new skills with real-world projects."
+    },
+    {
+        "id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+        "others_info": {
+        "is_todays_pick": false,
+        "is_trending": false
+        },
+        "category_id": "04",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+        "student_review": 488,
+        "title": "Training Programme on Python",
+        "duration":"6 months",
+        "course_fee": "5500 Tk",
+        "instructor": {
+        "name": "Munim",
+        "published_date": "2022-10-28",
+        "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "thumbnail_url": "https://imgdb.net/storage/uploads/9f6266d61c97900b3bcb61d7c4bfcc68822de7326ab7a2fa713da55c84729200.png",
+        "image_url": "https://imgdb.net/storage/uploads/47be52a3cafeef8709b7eff422b791e1ed441e6881a4a783d8a8d63678f2aae8.png",
+        "details": "This course is designed to teach you how to program using Python. We’ll cover the building blocks of the language, programming design fundamentals, how to use the standard library, third-party packages, and how to create Python projects. In the end, you should have a grasp of how to program."
+    }
+    ]
